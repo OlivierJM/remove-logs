@@ -1,0 +1,10 @@
+{
+  "name": "remove-logs",
+  "version": "0.1.0",
+  "description": "remove console logs in a specified file",
+  "main": "index.js",
+  "repository": "git@github.com:OlivierJM/remove-logs.git",
+  "author": "Olivier JM <manolivier93@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
